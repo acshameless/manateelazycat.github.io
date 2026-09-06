@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 本地跑 AI Agent 成本到底有多低？
-categories: [AI, Microserver]
+categories: [AI, Microserver, Pi]
 ---
 
 ![]({{site.url}}/pics/local-ai-agent-cost/HQQrR96boAAUd9f.jpg)

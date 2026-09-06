@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 让 Pi Agent 的快捷键和 Codex 保持一致
-categories: [AI]
+categories: [AI, Pi]
 ---
 
 已经习惯了 Codex 的快捷键了，把 Pi Agent 的快捷键也改成和 Codex 一样的。这样切换不同 AI 的时候，手指头的习惯可以保持一致。

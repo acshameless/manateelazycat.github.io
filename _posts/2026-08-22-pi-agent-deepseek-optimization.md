@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pi Agent + DeepSeek 深度优化
-categories: [AI, Microserver]
+categories: [AI, Microserver, Pi]
 ---
 
 ![懒猫 AI 算力舱]({{site.url}}/pics/pi-agent-deepseek-optimization/context-optimization.jpg)

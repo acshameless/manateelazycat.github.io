@@ -1,7 +1,7 @@
 ---
 layout: post
 title: vLLM 默认多模态参数导致 Qwen 3.8 27B 报错
-categories: [AI, Tech]
+categories: [AI, Tech, Pi]
 ---
 
 NND，今天正在用 Pi Agent + Qwen 3.8 27B 整活呢，突然就报错了
